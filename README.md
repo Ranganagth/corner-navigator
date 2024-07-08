@@ -21,7 +21,7 @@ You can see the effect in action by opening `index.html` in your web browser or 
    ```
 2. Navigate to the project directory:
    ```bash
-   cd corner-navigation-menu
+   cd corner-navigator
    ```
 
 ## Usage
